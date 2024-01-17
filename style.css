@@ -1,0 +1,21 @@
+h1 {
+    color:thistle;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    color:grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    background-color: beige;
+}
+
+img {
+    border: 4px dotted thistle;
+    width: 25%;
+    height: 25%;
+    margin-left: 300px;
+    padding: 10px;
+}
